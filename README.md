@@ -1,4 +1,5 @@
 php-tema-class
 ==============
 
-PHP Tema Class'ı
+Basit mantıkla hazırlanmış bir class tır.
+
