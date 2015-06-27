@@ -1,6 +1,6 @@
 <?php
 
-// Her dosyaya fonksiyonları çekmek zorundayız.
+// Başlatalım
 require_once('fonksiyonlar.php');
 
 
